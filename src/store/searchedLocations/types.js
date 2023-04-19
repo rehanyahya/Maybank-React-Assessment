@@ -1,0 +1,6 @@
+const types = {
+  SET_LOCATION_REQUEST: 'SET_LOCATION_REQUEST',
+  SET_LOCATION_SUCCESS: 'SET_LOCATION_SUCCESS',
+};
+
+export default types;
